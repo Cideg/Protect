@@ -1,4 +1,4 @@
-# Protect
+# Protectcoin
 ### How To Compile
 
 #### OpenSSL Support
